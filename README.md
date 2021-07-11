@@ -4,4 +4,4 @@
    - Customizable board dimensions 🖥️
 - Training a neural network to play 🕸️🧠
 
-![](https://github.com/gabri-aero/snake/blob/main/snake.PNG)
+![](https://github.com/gabri-aero/snake/blob/master/snake.PNG)
